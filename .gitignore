@@ -1,0 +1,5 @@
+resultados_OGLE_50_*/
+resultados_OGLE_50_curvas/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
