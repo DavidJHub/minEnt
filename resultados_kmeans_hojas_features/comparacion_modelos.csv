@@ -1,0 +1,7 @@
+modelo,split,n,accuracy,f1_macro,f1_weighted,auc_macro,auc_weighted
+original (3 feats),TRAIN,39,0.462,0.459,0.443,0.676,0.594
+original (3 feats),VAL,25,0.48,0.417,0.548,0.633,0.807
+original (3 feats),TEST,50,0.4,0.265,0.412,0.67,0.617
+ampliado (6 feats),TRAIN (features ampliados),39,0.615,0.59,0.555,0.704,0.665
+ampliado (6 feats),VAL (features ampliados),25,0.8,0.61,0.802,0.951,0.971
+ampliado (6 feats),TEST (features ampliados),50,0.62,0.34,0.564,0.7,0.77
