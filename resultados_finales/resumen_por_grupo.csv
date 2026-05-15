@@ -1,0 +1,5 @@
+survey,method,n,period_median,period_p05,period_p95,amplitude_median,string_length_median,phase_cov_median,n_obs_median
+OGLE,LombScargle,30,0.5484,0.1286,3.3733,0.2881,22.108,1.0,493.0
+OGLE,MinEnt,20,1.0,0.2952,3.1897,0.3195,69.2212,0.725,596.0
+VVV,LombScargle,40,0.2613,0.102,3.1705,1.027,13.1789,0.95,78.5
+VVV,MinEnt,10,1.0,0.9971,5.0001,1.1085,26.0882,0.5,161.5
